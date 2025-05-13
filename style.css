@@ -1,0 +1,20 @@
+#greeting {
+    color: green;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.blue-box {
+    background-color: lightblue;
+    padding: 10px;
+    border: 1px solid blue;
+    margin-bottom: 10px;
+}
+
+.red-button {
+    background-color: lightcoral;
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    cursor: pointer;
+}
